@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Jom-Yuth-CL</name>
+  <name>jom-yuth-cl</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -16,7 +16,7 @@
     <shade.version>2.3</shade.version>
     <compiler.version>3.6.0</compiler.version>
     <main.ClassName>io.muic.ooc.App</main.ClassName>
-    <filename>Jom-Yuth-CL</filename>
+    <filename>jom-yuth-cl</filename>
   </properties>
 
   <build>
