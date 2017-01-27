@@ -19,12 +19,23 @@ Items:
     - Health Potion (increase HP by 25% of MAX HP)
     - EXP Potion (increase EXP by 25% of MAX EXP)
     - Map (list the current's levels infrastructures and the x and y position)
-    - Head accessories (defends, HP, MP)
-    - Top (defends, HP, MP)
-    - Bottom (defends , HP, MP)
-    - Shoes (defends, HP, MP)
+    - Head accessories (defends, HP)
+    - Top (defends, HP)
+    - Bottom (defends , HP)
+    - Shoes (defends, HP)
     - Gloves (attack)
 
+Commands:
+    - info
+    - take {item}
+    - drop {item}
+    - use {potion-item}
+    - wear {wearable-item}
+    - remove {wearable-item}
+    - go {direction}
+    - attack with {weapon-item}
+    - help
+    - quit
 
 Level 1 :
 
