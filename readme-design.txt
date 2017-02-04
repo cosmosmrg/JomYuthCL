@@ -24,9 +24,6 @@ Class
 
     It is the parent of Cloth/Weapon/Potion since these all class has the same method take/drop/iteminfo
 
-- Cloth
-
-    This one is for wearable item inherit from Items
 
 - Weapon
 
